@@ -1,0 +1,4 @@
+16 Dec 2019
+1. try to look into existing APIs for compilation and running of code.
+2. Think through the high level design and come back to discuss ASAP, so you can start coding sooner.
+3. Think about stories and priorities
