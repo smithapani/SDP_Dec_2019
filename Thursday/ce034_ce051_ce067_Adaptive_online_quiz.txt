@@ -1,0 +1,18 @@
+CE034: Gandhi Trupti
+CE051: Joshi Hetvi
+CE067: Mehta Samyak
+
+Project title: Adaptive online quiz
+
+Core stories:
+1. Signup and login for admin and user.
+2. User should be able to take a quiz without login
+3. User should be able see all hes/her history if logged in
+4. admin should be able to add questions
+5. generation of the quiz would be dynamic.
+6. User should be able to select the topic for the quiz.
+
+Update 19/12/19
+1. Yet to decide technology. 
+2. Have rough sketch of the UI.
+3. By next lab signup and login functionalities should be commited.

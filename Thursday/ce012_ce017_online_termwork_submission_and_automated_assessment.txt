@@ -1,4 +1,26 @@
-16 Dec 2019
+CE012: Parth Baudhanwala
+CE017: Meet Charola
+
+Project title: Online termwork submission and automated assessment
+
+High level stories:
+SCOPE : It will only work for one subject
+1. Login for faculties and students
+2. Faculty should be able to create batch
+3. Faculty should be able to create labs
+4. Labs will have deadline.
+4. Faculty should be able to create assignments for labs - problem statement, constraints, test cases
+5. Student should see all labs
+6. Student should see problem statements and constraints for assignments
+7. Student should be able to submit the solution for assignments.
+8. Student should see score for all assignments
+9. Student should see passed/failed test cases for all assignments
+All above stories are P0
+
+Update - 16/12/2019
 1. try to look into existing APIs for compilation and running of code.
 2. Think through the high level design and come back to discuss ASAP, so you can start coding sooner.
-3. Think about stories and priorities
+3. Think about stories and prioritiesFile manager for android device
+
+Update - 19/12/19
+Meet me once in next week (before Thursday to discuss more details on the scope and requirments)

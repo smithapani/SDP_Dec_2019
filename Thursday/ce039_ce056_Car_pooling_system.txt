@@ -1,0 +1,20 @@
+CE039: Ronak Goti
+CE056: Dhaval Katariya
+
+Project title: Car pooling system
+
+Core functionalities:
+1. signup and login for user. - P0
+2. User should be able to offer a ride - source, destination, time, fair, number of seats available, vehicle details. - P0
+3. User should be able to select (search)/seek a ride. - P0
+4. User who offered a ride should be able to accept/reject a ride request. - P0
+5. Users should be able to rate each other and provide reviews. - P1
+5. SMS/alert for the ride.
+5.5. Live tracking with GPS if an app.
+5. chatroom and speech to text - P2 - Its a streached goal.
+9999. Payment is out of scope for this project - may be future extension
+
+
+Update 19/12/19
+By next week technologies should be decided
+Good job of requirement gathering.

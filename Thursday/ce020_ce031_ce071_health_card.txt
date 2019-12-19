@@ -1,0 +1,20 @@
+CE020: Aayush Dakwala
+CE031: Tanuj Doshi
+CE071: Bhavik Mojidra
+
+Project title: Healt card
+It's SSIP project - result pending for accepted/rejected
+
+Core functionalities:
+1. Signup and login functionality for user, doctor and farmacist and medical labs. - verify doctor after signup.
+2. User should be able to update his/her previous health records.
+2.5. User should be able to see his/her medical timeline.
+3. Doctors should be able to see entire history of the patient.
+4. Doctor should be able to update the history of the patient.
+5. Farmacist should be able to see the prescriptions provided by the doctor.
+6. Medical labs should be able to  update the records
+
+
+Update - 12/19/12
+Think of a good title for the project which reflects the scope of the project correctly.
+Email me - SRS and SSIP problem statement and come to see me before next lab so we can discuss further

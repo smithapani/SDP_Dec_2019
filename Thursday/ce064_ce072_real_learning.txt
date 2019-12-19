@@ -1,0 +1,15 @@
+CE064: Ashish Kotecha
+CE072: Harsh Moradiya
+
+Project title: Real learning (Android app using flutter)
+
+Core functionalities:
+1. Signup and login for admin. - P0
+2. Admin should be able to create tutorials. Tutorials will have topicwise content. - P0
+3. User should be able to select and go throught the tutorial. - P0
+4. User should be able to go through free tutorials without login
+5. course?
+6. quiz?
+
+Update 19/12/19
+1. Meet me tomorrow or Saturday or Monday to discuss more details.
