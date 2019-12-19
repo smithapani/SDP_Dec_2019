@@ -1,0 +1,28 @@
+CE124: Nidhi Shah
+CE125: Vivek Shah
+CE143: Avina Vekariya
+
+Project title: Anonymous code review portal
+
+Core functionalities:
+Signup and login for user - P0
+During signup user selects favourite tags - P0
+User can upload a file - P0
+Files will have tags - P0
+User can view his/other's files based on tags - P0
+User homepage will show files of his/her interest that are yet to be reviewed. - P0
+User can review files (add comments) - P0
+User can view the reviews - P0
+User can flag the comments - P0
+Users can view each other's profile (includes points as well) - P0
+User can request for review from a particular user - P1
+Review request will be sent to more users than selected by code owner for the review - P1
+User should see review requests received - P1
+User should see the list of suggested reviewers - P2
+User can resubmit the file - P2
+
+20/12/19 update:
+Rough UI design on paper
+Rough database design
+Feasibility check for highlighting the code and associating with comment (line number), if possible try to have POC
+Finish signup and login by next lab

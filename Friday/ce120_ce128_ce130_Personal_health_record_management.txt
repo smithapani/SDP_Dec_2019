@@ -1,0 +1,19 @@
+CE120: Shah Divya
+CE128: Sodhaparmar Nihar
+CE130: Surati Ramya
+
+Project title: Personal health record management (Android app)
+
+Core functionalities:
+Signup and login - P0
+User should be able to add the family members - P0
+User should be able to update past health records of family members (surgery, reports, medications, past diagnosis) - P0
+User can add doctor/lab/chemist appointment details and will be served reminder - P0
+User will be served vaccination reminders automatically for new born - P0
+User should be able to add health insurance details - P0
+User should be able to add emergency details (personal doctor and closed ones) - P1
+User should be able to see medical timeline for family members - P1
+
+20/12/19 update:
+Rough UI of the app on paper
+Complete signup and login 

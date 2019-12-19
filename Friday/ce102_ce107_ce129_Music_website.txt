@@ -1,0 +1,29 @@
+CE102: Prajapati Milan
+CE107: Devendra Raiyani
+CE129: Kumar Sondarva
+
+Project title: Music website
+
+Core functionalities:
+Admin
+Login for admin - P0
+Admin should be able to create categories - P0
+Admin should be able to manage songs (add/delete) - P0
+Admin should be able to create playlist - P0
+Admin should be able to manage playlist - P0
+Admin can edit the details (metadata) of the song - P2
+User
+User should be able to play song (with or without login) - P0
+User can view songs per category (with or without login) - P0
+User should be able to download a song (with or without login) - P1
+User should be able to search songs by title - P2
+User should be able to filter songs based on artist, category, films
+Signup and login for User - P1
+User should be able to like/dislike the song which will be added/removed to his/her favourites - P1
+User should be able to create own playlist - P1
+User should be able to manage own playlist - P1
+
+20/12/19 update:
+Rough sketches of UI
+Rough database design
+Finish admin login by next next lab
