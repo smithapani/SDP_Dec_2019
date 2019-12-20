@@ -1,0 +1,21 @@
+CE041: Smit Hapani
+CE062: Rutvik Kikani
+
+Project title: Expense management
+
+Core functionalities:
+User should be able to signup and login - P0
+User should be able to add categories of Expenses - P0
+User should be able to enter the Expense - P0
+User should be able to see expense history - P0
+User should be able to see category wise expense reports for month/year - P0
+User should be able to see category wise expense reports for custom time period - P1
+
+Update 19/12/19
+Meet me tomorrow as team mate is absent.
+
+Update 20/12/19
+Decide on technology and email me as soon as you Decide
+Start learning the technology
+Have rough UI design on paper by next lab
+Have rough database schema by next lab

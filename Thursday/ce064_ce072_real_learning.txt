@@ -5,11 +5,22 @@ Project title: Real learning (Android app using flutter)
 
 Core functionalities:
 1. Signup and login for admin. - P0
-2. Admin should be able to create tutorials. Tutorials will have topicwise content. - P0
-3. User should be able to select and go throught the tutorial. - P0
-4. User should be able to go through free tutorials without login
-5. course?
-6. quiz?
+2. Signup and login for user - P0
+3. Admin should be able to create course. Course will have topicwise content (text/multimedia). - P0
+4. User should be able to enroll in course (if logged in) - P0
+5. User should be able to go through the content of the course s/he has enrolled - P0
+6. User should be able to take topic wise quiz - P0
+7. Without login user can see the course inventory and trending courses - P0
+8. User can search a course by coursename - P1
+9. User can search by voice - P1
+10. System can recommend course to the user - P2
+11. Augmented reality based learning for child section - P2
 
 Update 19/12/19
 1. Meet me tomorrow or Saturday or Monday to discuss more details.
+
+Update 20/12/19
+Have rough UI sketch on paper
+decide where to host database
+Rough database design database
+Complete signup and login for user and admin by next lab
