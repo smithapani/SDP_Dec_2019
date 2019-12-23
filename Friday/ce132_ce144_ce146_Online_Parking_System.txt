@@ -11,7 +11,7 @@ Administrator should be able to verify land entries by landlord. - P0
 Landloard:
 Sign up and login. - P0
 Landloard should be able to add land details (location and other info) and rent details (duration, price and other info) of land to be rented. After this it will go for verification to admin. - P0
-Landlord should be able to modify/remove land/rent details.
+Landlord should be able to modify/remove land/rent details. - P1
 login with Face detection. - P2
 Landlord should be able to view the history - P0
 Landlord can view the accumulated amount and get the payout - P0
