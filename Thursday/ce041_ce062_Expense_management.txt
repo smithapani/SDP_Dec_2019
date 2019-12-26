@@ -2,6 +2,7 @@ CE041: Smit Hapani
 CE062: Rutvik Kikani
 
 Project title: Expense management
+Github repo: 
 
 Core functionalities:
 User should be able to signup and login - P0
@@ -27,3 +28,7 @@ Add details of UI for all views
 Added two core functionalities
 Decide on where to host database
 Start working on implementing the project from next week.
+
+Update 27/12/19
+Update github repo
+Put a date against each core functionality

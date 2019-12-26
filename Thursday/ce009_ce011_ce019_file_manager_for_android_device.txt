@@ -3,15 +3,22 @@ CE011: Mahendra Barad
 CE019: Harshad Chovatiya
 
 Project title: File manager for android device
+Github repo: https://github.com/Hardik0307/File_Explorer
 
 High level stories:
 0. It should provide a way to explore all files on device and memory card. - P0
-1. App should provice file related CRUD operations. - P0
+1. App should provide file related CRUD operations on File and Folder. - P0
 2. User should be able to see categorywise files. (e.g. audio, documents, video...)
 3. Suggesting user to remove duplicate files. - Its not a P0, it's not P2
+4. User can search files/folders by name - P1
 
 
 Progress - 19/12/19
 1. Decide what technology to use for implementation - option are kotlin, java and flutter framework and dart language.
 2. Proof of concept that technology you selected can be used to navigate through android file system.
 3. Need to drill down on functionalities of the app.
+
+Update 27/12/19
+Have decided to use flutter and dart
+Nice progress!!!
+Put a date against each core functionality
