@@ -3,7 +3,7 @@ CE092: Patel Parth
 CE105: Radadiya Krinish
 
 Project title: Farmer's portal
-
+Github Repo : https://github.com/krinish291/Farmer_portal
 Core functionalities:
 Admin:
 Admin should be able to login - P2
@@ -28,4 +28,4 @@ Expert should be able to give expert advice for the queries - P1
 Think about rough UI and fields required
 First draft of design of database
 Decide on technology to use
-If possible finish signup and login for farmer by next lab. Try hard!
+If possible finish signup and login for farmer by next lab. Try hard! 
