@@ -31,3 +31,6 @@ Nice progress!!
 Rough database design database by next week - pending from last week
 Update github repo
 Put a date against each core functionality
+
+Update 01/01/20
+On track. Need more clarity on functionalities and working of the app

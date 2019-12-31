@@ -33,3 +33,6 @@ Come up with rough database design on paper
 Come up with rough UI design
 Update github repo on this doc
 put a date against each core functionalities
+
+Update 01/01/20
+Both teammates are absent.

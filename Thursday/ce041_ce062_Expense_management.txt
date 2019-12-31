@@ -1,7 +1,7 @@
 CE041: Smit Hapani
 CE062: Rutvik Kikani
 
-Project title: Expense management
+Project title: Expense management App
 Github repo: 
 
 Core functionalities:
@@ -32,3 +32,7 @@ Start working on implementing the project from next week.
 Update 27/12/19
 Update github repo
 Put a date against each core functionality
+
+Update 01/01/20
+Have decided to create android app
+Put a date against each core functionality - pending from last week

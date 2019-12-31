@@ -9,6 +9,7 @@ Core functionalities:
 2. User should be able to offer a ride - source, destination, time, fair, number of seats available, vehicle details. - P0
 3. User should be able to select (search)/seek a ride. - P0
 4. User who offered a ride should be able to accept/reject a ride request. - P0
+5. Rider and driver should be able to see each other's name and contact details - P0
 5. Users should be able to rate each other and provide reviews. - P1
 5. SMS/alert for the ride.
 5.5. Live tracking with GPS if an app.
@@ -24,3 +25,8 @@ Update 27/12/19
 Update github repo
 Put a date against each core functionality
 Decided to use flutter for android app
+
+Update 01/01/20
+Update github repo - pending from last week
+Put a date against each core functionality - Pending from last week
+Completed login and signup
