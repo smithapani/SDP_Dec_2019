@@ -3,6 +3,7 @@ CE125: Vivek Shah
 CE143: Avina Vekariya
 
 Project title: Anonymous code review portal
+Github repo: 
 
 Core functionalities:
 Signup and login for user - P0
@@ -26,3 +27,9 @@ Rough UI design on paper
 Rough database design
 Feasibility check for highlighting the code and associating with comment (line number), if possible try to have POC
 Finish signup and login by next lab
+
+27/12/19 update:
+Update github repo
+Put date against each core priority
+Nice progress!!
+Send me an email with your github username

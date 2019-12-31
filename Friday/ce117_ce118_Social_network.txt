@@ -2,6 +2,7 @@ CE117: Savaliya Raj
 CE118: Savaliya Vivek
 
 Project title: Social network
+Github repo: 
 
 Core functionalities:
 Signup and login for users - P0
@@ -24,3 +25,8 @@ User can send message to a group - P2
 Rough UI of your website on paper
 rough database design
 Finish signup and login by next lab
+
+27/12/19 update:
+Finish signup and login by next lab - Pending from last week
+Update github repo
+Put a date against each core functionality

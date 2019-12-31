@@ -9,3 +9,6 @@ Ultimate goal is to host an image of a container which can be reutilized by othe
 20/12/19 update:
 Have working knowledge of go language
 Learn to work with namespaces and cgroups
+
+27/12/19 update:
+Expecting update in terms of project code by next week.
