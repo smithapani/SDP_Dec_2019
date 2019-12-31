@@ -1,20 +1,22 @@
 CE012: Parth Baudhanwala
 CE017: Meet Charola
 
-Project title: Online termwork submission and automated assessment
+Project title: Online termwork submission
+Github repo: 
+
 
 High level stories:
-SCOPE : It will only work for one subject
+Decide scope - whether to keep multiple subjects or the system will work for only one subject
 1. Login for faculties and students
-2. Faculty should be able to create batch
-3. Faculty should be able to create labs
-4. Labs will have deadline.
+2. Faculty should be able to create subject ?????????
+2.1. Faculty should be able to add students to the system (one time)
+2.5. Faculty can enroll students to the subject
+3. Faculty should be able to create labs under subject
 4. Faculty should be able to create assignments for labs - problem statement, constraints, test cases
-5. Student should see all labs
-6. Student should see problem statements and constraints for assignments
+5. Students can see all the subjects in which S/he is enrolled ??????????
+5.5 Student should see all labs
+6. Student should see problem statements, constraints, test cases for assignments
 7. Student should be able to submit the solution for assignments.
-8. Student should see score for all assignments
-9. Student should see passed/failed test cases for all assignments
 All above stories are P0
 
 Update - 16/12/2019
@@ -24,3 +26,10 @@ Update - 16/12/2019
 
 Update - 19/12/19
 Meet me once in next week (before Thursday to discuss more details on the scope and requirments)
+
+Update 27/12/19
+Drastically reduced the scope of the Project
+Come up with rough database design on paper
+Come up with rough UI design
+Update github repo on this doc
+put a date against each core functionalities

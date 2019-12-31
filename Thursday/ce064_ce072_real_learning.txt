@@ -2,6 +2,7 @@ CE064: Ashish Kotecha
 CE072: Harsh Moradiya
 
 Project title: Real learning (Android app using flutter)
+Github repo: 
 
 Core functionalities:
 1. Signup and login for admin. - P0
@@ -24,3 +25,9 @@ Have rough UI sketch on paper
 decide where to host database
 Rough database design database
 Complete signup and login for user and admin by next lab
+
+Update 27/12/19
+Nice progress!!
+Rough database design database by next week - pending from last week
+Update github repo
+Put a date against each core functionality

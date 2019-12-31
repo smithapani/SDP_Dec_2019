@@ -18,3 +18,6 @@ Core functionalities:
 Update - 12/19/12
 Think of a good title for the project which reflects the scope of the project correctly.
 Email me - SRS and SSIP problem statement and come to see me before next lab so we can discuss further
+
+Update 27/12/19
+All team mates were absent

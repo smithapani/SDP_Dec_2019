@@ -1,7 +1,8 @@
 CE039: Ronak Goti
 CE056: Dhaval Katariya
 
-Project title: Car pooling system
+Project title: Car pooling App (android)
+Github repo: 
 
 Core functionalities:
 1. signup and login for user. - P0
@@ -18,3 +19,8 @@ Core functionalities:
 Update 19/12/19
 By next week technologies should be decided
 Good job of requirement gathering.
+
+Update 27/12/19
+Update github repo
+Put a date against each core functionality
+Decided to use flutter for android app
