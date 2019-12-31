@@ -4,20 +4,20 @@ CE118: Savaliya Vivek
 Project title: Social network
 
 Core functionalities:
-Signup and login for users - P0
-phone number/email verification before first login - P1
-User can update his/her profile - P0
-User can search other users and view their profile - P0
-User can search other users and fan-in them - P0
-User can fan-out existing fanned users - P0
-User can create multimedia posts - P0
-User can see posts of his fanned users - P0
-User will see notifications and inbox - P0
-User can send one way messages to other users - P0
-User can have #hashtag, &group, @user - P1
-User can create groups (admin of the group would be its creator) - P2
-group admin can add/remove group members - P2
-User can send message to a group - P2
+Signup and login for users - P0 - 12 Jan, 2020
+Email verification before first login - P1 - 12 Jan,2020
+User can update his/her profile - P0 - 15 Jan, 2020
+User can search other users and - P0 - 28 Feb,2020
+User can view their user's profile and fan-in them - P0 - 15 Jan,2020
+User can fan-out existing fanned users - P0 - 15 Jan,2020
+User can create multimedia posts - P0 - 20 Jan, 2020
+User can see posts of his fanned users - P0 - 25 Jan, 2020
+User will see notifications and inbox - P0 - 30. Jan, 2020
+User can send one way messages to other users - P0 - 16 Feb, 2020
+User can have #hashtag, &group, @user - P1 - 3 Feb,2020
+User can create groups (admin of the group would be its creator) - P2 - 20 Feb,2020 
+group admin can add/remove group members - P2 - 21 Feb,2020
+User can send message to a group - P2 - 24 Feb,2020
 
 
 20/12/19 update:
