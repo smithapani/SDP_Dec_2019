@@ -2,16 +2,16 @@ CE039: Ronak Goti
 CE056: Dhaval Katariya
 
 Project title: Car pooling App (android)
-Github repo: 
+Github repo: https://github.com/ronak1904/carpoolingapp
 
 Core functionalities:
 1. signup and login for user. - P0
-2. User should be able to offer a ride - source, destination, time, fair, number of seats available, vehicle details. - P0
-3. User should be able to select (search)/seek a ride. - P0
-4. User who offered a ride should be able to accept/reject a ride request. - P0
-5. Users should be able to rate each other and provide reviews. - P1
-5. SMS/alert for the ride.
-5.5. Live tracking with GPS if an app.
+2. User should be able to offer a ride - source, destination, time, fair, number of seats available, vehicle details. - P0 23/01/2020
+3. User should be able to select (search)/seek a ride. - P0  30/01/2020
+4. User who offered a ride should be able to accept/reject a ride request. - P0  06/02/2020
+5. Users should be able to rate each other and provide reviews. - P1  27/02/2020
+5. SMS/alert for the ride. 12/03/2020
+5.5. Live tracking with GPS if an app. 12/03/2020
 5. chatroom and speech to text - P2 - Its a streached goal.
 9999. Payment is out of scope for this project - may be future extension
 
