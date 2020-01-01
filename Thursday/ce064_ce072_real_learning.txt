@@ -2,16 +2,16 @@ CE064: Ashish Kotecha
 CE072: Harsh Moradiya
 
 Project title: Real learning (Android app using flutter)
-Github repo: 
+Github repo: https://github.com/akhm123/sdp
 
 Core functionalities:
-1. Signup and login for admin. - P0
+1. Signup and login for admin. - P0 16/01/20
 2. Signup and login for user - P0
-3. Admin should be able to create course. Course will have topicwise content (text/multimedia). - P0
-4. User should be able to enroll in course (if logged in) - P0
-5. User should be able to go through the content of the course s/he has enrolled - P0
-6. User should be able to take topic wise quiz - P0
-7. Without login user can see the course inventory and trending courses - P0
+3. Admin should be able to create course. Course will have topicwise content (text/multimedia). - P0 23/01/20
+4. User should be able to enroll in course (if logged in) - P0 30/01/20
+5. User should be able to go through the content of the course s/he has enrolled - P0 06/02/20
+6. User should be able to take topic wise quiz - P0  13/02/20
+7. Without login user can see the course inventory and trending courses - P0 20/02/20
 8. User can search a course by coursename - P1
 9. User can search by voice - P1
 10. System can recommend course to the user - P2
