@@ -5,7 +5,7 @@ Project title: Expense management
 Github repo: 
 
 Core functionalities:
-User should be able to signup and login - P0
+User should be able to signup and login - P0 - 16/1/2020
 User should be able to add categories of Expenses - P0
 User should be able to enter the Expense - P0
 User should be able to see expense history - P0
