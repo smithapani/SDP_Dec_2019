@@ -22,3 +22,8 @@ Update 27/12/19
 Have decided to use flutter and dart
 Nice progress!!!
 Put a date against each core functionality
+
+Update 01/01/20
+Nice progress!!
+Start doing code reviews for each other's code.
+Put a date against each core functionality - pending from last week

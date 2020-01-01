@@ -3,6 +3,7 @@ CE107: Devendra Raiyani
 CE129: Kumar Sondarva
 
 Project title: Music website
+Github repo: 
 
 Core functionalities:
 Admin
@@ -27,3 +28,9 @@ User should be able to manage own playlist - P1
 Rough sketches of UI
 Rough database design
 Finish admin login by next next lab
+
+27/12/19 update:
+Need to use github. All your code should be frequently uploaded on github
+Redesign database schema
+Put date against each core functionality
+update github repo
