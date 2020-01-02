@@ -21,3 +21,12 @@ Complete signup and login
 
 27/12/19 update:
 All team mates were absent
+
+03/01/20 update:
+Update github repo
+Put a date against each core functionality
+Push your code on github frequnetly - VERY VERY IMPORTANT
+Nice progress!!
+Signup and login have been tested
+By next week show rough database schema
+Update core functionalities to reflect scope decided based on UI

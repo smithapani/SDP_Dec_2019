@@ -34,3 +34,8 @@ Need to use github. All your code should be frequently uploaded on github
 Redesign database schema
 Put date against each core functionality
 update github repo
+
+03/01/20 update:
+Put date against each core functionality - pending from  last week
+update github repo - pending from last week
+Repeat - Need to use github. All your code should be frequently uploaded on github

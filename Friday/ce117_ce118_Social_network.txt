@@ -2,7 +2,7 @@ CE117: Savaliya Raj
 CE118: Savaliya Vivek
 
 Project title: Social network
-Github repo: 
+Github repo: https://github.com/SRX9/Social-Network-SDP
 
 Core functionalities:
 Signup and login for users - P0 - 12 Jan, 2020
@@ -30,3 +30,8 @@ Finish signup and login by next lab
 Finish signup and login by next lab - Pending from last week
 Update github repo
 Put a date against each core functionality
+
+03/01/20 update:
+Push your code to github frequently
+Have decided to use reactJs and NodeJs and mongo db for database
+Nice progress on database schema!!

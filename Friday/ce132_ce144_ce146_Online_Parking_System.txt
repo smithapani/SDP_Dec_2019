@@ -36,3 +36,7 @@ Please complete above things before next lab.
 27/12/19 update:
 Nice progress!!
 Put dates against each core functionality before next week
+
+03/01/20 update:
+Are working on Django
+Nice progress!! On track
