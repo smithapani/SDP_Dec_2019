@@ -3,33 +3,34 @@ CE092: Patel Parth
 CE105: Radadiya Krinish
 
 Project title: Farmer's portal
-Github repo: 
+Github Repo : https://github.com/krinish291/Farmer_portal
 
 Core functionalities:
 Admin:
-Admin should be able to login - P2
-Admin should be able to update product prices - P2
-Admin should be able to validate expert - P2
+Admin should be able to login - P0 27/12/2019 Fri
+Admin should be able to update product prices - P1 20/01/2020 Mon
+Admin should be able to validate expert - P1 27/1/2020 Mon
 User:
-User can view the success stories in reverse chronological order - with/without login - P0
-User can select a product to see the success stories related to that product - with/without login - P0
-User should be able to see today's prices  - with/without login - P2
-Location wise stories are shown to user - with/without login - P1
-Signup and login for user/Farmer - P0
-User should be able to post his/her stories after login - P0
+User can view the success stories in reverse chronological order - with/without login - P1  31/01/2020 Fri 
+User can select a product to see the success stories related to that product - with/without login - P0 20/01/2020 Mon
+User should be able to see today's prices  - with/without login - P0 20/01/2020 Mon
+Location wise stories are shown to user - with/without login - P2 17/02/2020 Fri
+Signup and login for user/Farmer - P0 27/12/2019 Fri
+User should be able to post his/her stories after login - P0 20/01/2020 Mon
     Story will have photoes, crop details, seeds, fertilizers and treatment details, crop timeline and location
-User can like/dislike a story - P0
-User can raise a query to a particular expert - P1
-User can rate an expert - P1
+User can like/dislike a story - P1 27/01/2020 Mon
+User can raise a query to a particular expert - P1 21/02/2020 Fri
+User can rate an expert - P2 21/02/2020 Fri
 Expert:
-Expert should be able to Signup and login (post verification) - P1
-Expert should be able to give expert advice for the queries - P1
+Expert should be able to Signup and login (post verification) - P1 27/1/2020 Mon
+Expert should be able to give expert advice for the queries - P1 3/02/2020 Mon 
 
 20/12/19 update:
 Think about rough UI and fields required
 First draft of design of database
 Decide on technology to use
 If possible finish signup and login for farmer by next lab. Try hard!
+
 
 27/12/19 update:
 Good progress!!
