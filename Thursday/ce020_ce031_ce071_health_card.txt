@@ -3,6 +3,7 @@ CE031: Tanuj Doshi
 CE071: Bhavik Mojidra
 
 Project title: Healt card
+Github repo: 
 It's SSIP project - result pending for accepted/rejected
 
 Core functionalities:
@@ -24,3 +25,7 @@ All team mates were absent
 
 update 01/01/20
 All team mates were absent
+
+Update 03/01/20
+Will update github repo, dates and priorities
+Will come tomorrow for showing database design
