@@ -2,15 +2,15 @@ CE034: Gandhi Trupti
 CE051: Joshi Hetvi
 CE067: Mehta Samyak
 
-Project title: Adaptive online quiz
-Github repo: 
+Project title: Adaptive online quiz[Django]
+Github repo: https://github.com/samcode22/ADAPTIVE_QUIZ  
 
 Core functionalities:
-1. Signup and login for admin and user. - P0
-2. User should be able to take a quiz with/without login - P0
-3. User should be able see all his/her history if logged in - P1
-4. admin should be able to add categories, questions, qu - P0
-5. generation of the quiz would be dynamic. - P0
+1. Signup and login for admin and user. - P0 02/01/20 [1st task] //completed
+2. User should be able to take a quiz with/without login - P0  23/01/20 [3rd task]
+3. User should be able see all his/her history if logged in - P1  30/01/20 [4th task]
+4. admin should be able to add categories, questions, quiz - P0 16/01/20  [2nd task] //in process
+5. generation of the quiz would be dynamic. - P0  06/02/20 [5th task]
 6. User should be able to select the topic for the quiz. - P0
 
 Update 19/12/19
