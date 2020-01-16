@@ -31,3 +31,6 @@ Update 01/01/20
 Update github repo - pending from last week
 Put a date against each core functionality - Pending from last week
 Completed login and signup
+
+update 16/01/20
+Nice progress. On track.

@@ -36,3 +36,8 @@ Put a date against each core functionality
 Update 01/01/20
 Have decided to create android app
 Put a date against each core functionality - pending from last week
+
+update 16/01/20
+PUSH all your code so far to github repo - VERY IMPORTANT
+Frequently PUSH your code to github repo - VERY VERY VERY IMPORTANT
+Change dates for core priorities

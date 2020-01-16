@@ -29,3 +29,9 @@ Update 01/01/20
 Update github repo - pending from last week
 Put a date against each core functionality - pending from last week
 Planning to come up with rough database design in current lab session only
+
+update 16/01/20
+PUSH all your code so far to github repo - VERY IMPORTANT
+Frequently PUSH your code to github repo - VERY VERY VERY IMPORTANT
+Nice progress otherwise!!!
+Start working on front end.
