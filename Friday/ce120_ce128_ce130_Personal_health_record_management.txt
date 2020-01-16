@@ -3,17 +3,18 @@ CE128: Sodhaparmar Nihar
 CE130: Surati Ramya
 
 Project title: Personal health record management (Android app)
-Github repo: 
+Github repo: https://github.com/divyashah3899/phrm
 
 Core functionalities:
-Signup and login - P0
-User should be able to add the family members - P0
-User should be able to update past health records of family members (surgery, reports, medications, past diagnosis) - P0
-User can add doctor/lab/chemist appointment details and will be served reminder - P0
-User will be served vaccination reminders automatically for new born - P0
-User should be able to add health insurance details - P0
-User should be able to add emergency details (personal doctor and closed ones) - P1
-User should be able to see medical timeline for family members - P1
+Signup and login - P0 [20/12/2019]
+User should be able to add the family members - P0 [24/1/2020]
+User should be able to add health insurance details - P0 [24/1/2020]
+User should be able to update past health records of family members (surgery, reports, medications, past diagnosis) - P0 [31/1/2020]
+User can add doctor/lab/chemist appointment details and will be served reminder - P0 [7/2/2020]
+User should be able to add emergency details (personal doctor and closed ones) - P1 [19/2/2020]
+User should be able to see medical timeline for family members - P1 [28/2/2020]
+User will be served vaccination reminders automatically for new born - P0 [9/3/2020]
+User misses the deadline then again reminder will be set by the user - P0 [13/3/2020]
 
 20/12/19 update:
 Rough UI of the app on paper
@@ -30,3 +31,9 @@ Nice progress!!
 Signup and login have been tested
 By next week show rough database schema
 Update core functionalities to reflect scope decided based on UI
+
+17/01/20 update:
+Push your code to github frequently via pull request. - VERY VERY IMPORTANT
+Work according to priority
+Nice progress!!
+On track. Need to work hard for the next week.

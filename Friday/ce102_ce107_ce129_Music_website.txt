@@ -1,28 +1,28 @@
 CE102: Prajapati Milan
-CE107: Devendra Raiyani
-CE129: Kumar Sondarva
+CE107: Raiyani Devendra
+CE129: Sondarva Kumar
 
 Project title: Music website
-Github repo: 
+Github repo: https://github.com/DevendraMRaiyani/rythm
 
 Core functionalities:
 Admin
-Login for admin - P0
-Admin should be able to create categories - P0
-Admin should be able to manage songs (add/delete) - P0
-Admin should be able to create playlist - P0
-Admin should be able to manage playlist - P0
-Admin can edit the details (metadata) of the song - P2
+Login for admin - P0  (27/12/2019)
+Admin should be able to create categories - P0  (29/12/2019)
+Admin should be able to manage songs (add/delete) - P0  (20/1/2020 )
+Admin should be able to create playlist - P0  (27/1/2020)
+Admin should be able to manage playlist - P0  (3/2/2020)
+Admin can edit the details (metadata) of the song - P2  
 User
-User should be able to play song (with or without login) - P0
-User can view songs per category (with or without login) - P0
+User should be able to play song (with or without login) - P0  (20/1/2020)
+User can view songs per category (with or without login) - P0  (3/2/2020)
 User should be able to download a song (with or without login) - P1
 User should be able to search songs by title - P2
 User should be able to filter songs based on artist, category, films
-Signup and login for User - P1
-User should be able to like/dislike the song which will be added/removed to his/her favourites - P1
-User should be able to create own playlist - P1
-User should be able to manage own playlist - P1
+Signup and login for User - P1  (10/2/2020)
+User should be able to like/dislike the song which will be added/removed to his/her favourites - P1  (10/2/2020)
+User should be able to create own playlist - P1  (2/3/2020)
+User should be able to manage own playlist - P1 (2/3/2020)
 
 20/12/19 update:
 Rough sketches of UI
@@ -39,3 +39,7 @@ update github repo
 Put date against each core functionality - pending from  last week
 update github repo - pending from last week
 Repeat - Need to use github. All your code should be frequently uploaded on github
+
+17/01/20 update:
+On track. Need to work hard for the next week.
+Push your code to github frequently via pull request. - VERY VERY IMPORTANT

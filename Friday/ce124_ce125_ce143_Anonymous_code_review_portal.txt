@@ -36,3 +36,8 @@ Send me an email with your github username
 
 03/01/20 update:
 On track.
+
+17/01/20 update:
+Push your code to github frequently via pull request. - VERY VERY IMPORTANT
+Review each other's code via pull request before merging it.
+On track. Need to work hard for next week.

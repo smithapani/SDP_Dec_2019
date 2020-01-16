@@ -35,3 +35,7 @@ Put a date against each core functionality
 Push your code to github frequently
 Have decided to use reactJs and NodeJs and mongo db for database
 Nice progress on database schema!!
+
+17/01/20 update:
+On track. Need to work hard for the next week.
+Push your code to github frequently via pull request. - VERY VERY IMPORTANT

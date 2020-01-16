@@ -40,3 +40,9 @@ Update github repo
 03/01/20 update:
 Today we discussed database schema.
 Will need to work hard to be on track for next reporting.
+
+17/01/20 update:
+Nice progress!!! On track.
+Need to add more (detailed) attributes to stories model.
+Think about crop timeline. If you do that, you will be proud of yourself.
+Push your code to github frequently via pull request. - VERY VERY IMPORTANT

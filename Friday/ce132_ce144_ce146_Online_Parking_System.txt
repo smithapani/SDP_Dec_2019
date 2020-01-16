@@ -40,3 +40,6 @@ Put dates against each core functionality before next week
 03/01/20 update:
 Are working on Django
 Nice progress!! On track
+
+17/01/20 update:
+On track. Nice progress!!!
