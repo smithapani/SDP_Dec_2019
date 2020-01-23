@@ -26,16 +26,22 @@ Rough UI of your website on paper
 rough database design
 Finish signup and login by next lab
 
-27/12/19 update:
-Finish signup and login by next lab - Pending from last week
-Update github repo
-Put a date against each core functionality
-
-03/01/20 update:
-Push your code to github frequently
-Have decided to use reactJs and NodeJs and mongo db for database
-Nice progress on database schema!!
+27/12/19 update:Push your code to github frequently via pull request. - VERY VERY IMPORTANT
+Finish signup and login by nePush your code to github frequently via pull request. - VERY VERY IMPORTANTxt lab - Pending from last week
+Update github repoPush your code to github frequently via pull request. - VERY VERY IMPORTANT
+Put a date against each core Push your code to github frequently via pull request. - VERY VERY IMPORTANTfunctionality
+Push your code to github frequently via pull request. - VERY VERY IMPORTANT
+03/01/20 update:Push your code to github frequently via pull request. - VERY VERY IMPORTANT
+Push your code to github freqPush your code to github frequently via pull request. - VERY VERY IMPORTANTuently
+Have decided to use reactJs aPush your code to github frequently via pull request. - VERY VERY IMPORTANTnd NodeJs and mongo db for database
+Nice progress on database schPush your code to github frequently via pull request. - VERY VERY IMPORTANTema!!
 
 17/01/20 update:
 On track. Need to work hard for the next week.
 Push your code to github frequently via pull request. - VERY VERY IMPORTANT
+
+24/01/20 update:
+Push your code to github frequently via pull request. - VERY VERY VERY IMPORTANT
+Review each other's code via pull request before merging it.
+Lagging little behind, compared to commitments.
+On track to be on track next week.

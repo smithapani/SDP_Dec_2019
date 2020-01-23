@@ -43,3 +43,11 @@ Repeat - Need to use github. All your code should be frequently uploaded on gith
 17/01/20 update:
 On track. Need to work hard for the next week.
 Push your code to github frequently via pull request. - VERY VERY IMPORTANT
+
+24/01/20 update:
+Only use one repo
+Move code from rythmAdmin to rythm repo
+Push your code to github frequently via pull request. - VERY VERY VERY IMPORTANT
+Review each other's code via pull request before merging it.
+Lagging behind the commitments.
+Need to work hard for next week to remain on track.

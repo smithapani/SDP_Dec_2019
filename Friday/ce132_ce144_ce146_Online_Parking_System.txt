@@ -21,9 +21,9 @@ User:
 Login and signup (profile creation) - P0 
 User can modify profile info - P0 [ 17-01-2020 ]
 Based on current location, user should be able to get near by parking lots information - P0 [ 20-01-2020 ]
-User should be able to reserve a parking spot for a time interval. - P0 [ 24-01-2020 ]
-User can reserve a parking spot in advance - P0 [ 28-01-2020 ]
-Dummy payment gateway - P0 [ 31-01-2020 ]
+User should be able to reserve a parking spot for a time interval. - P0 [ 24-01-2020 to 31-01-2020 ]
+User can reserve a parking spot in advance - P0 [ 04-02-2020 ]
+Dummy payment gateway - P0 [ 04-02-2020 ]
 User should be able to view usage history - P0 [ 04-02-2020 ]
 User should be able to provide feedback - P2 [ 23-02-2020 ]
 
@@ -43,3 +43,7 @@ Nice progress!! On track
 
 17/01/20 update:
 On track. Nice progress!!!
+
+24/01/20 update:
+Actually review each other's code via pull request before merging it.
+Nice progress!!

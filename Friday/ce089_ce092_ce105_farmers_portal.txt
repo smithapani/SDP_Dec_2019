@@ -46,3 +46,9 @@ Nice progress!!! On track.
 Need to add more (detailed) attributes to stories model.
 Think about crop timeline. If you do that, you will be proud of yourself.
 Push your code to github frequently via pull request. - VERY VERY IMPORTANT
+
+24/01/20 update:
+Lagging behind according to commitment. Need to push yourselves little more.
+Try to finish the feature (polishing).
+Push your code to github frequently via pull request. - VERY VERY VERY IMPORTANT
+Review each other's code via pull request before merging it.
