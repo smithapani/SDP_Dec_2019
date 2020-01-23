@@ -35,3 +35,9 @@ PUSH all your code so far to github repo - VERY IMPORTANT
 Frequently PUSH your code to github repo - VERY VERY VERY IMPORTANT
 Nice progress otherwise!!!
 Start working on front end.
+
+Update 23/01/2020
+Use git properly and push your code to github frequently.
+Merge your code to master branch only through pull requests (not directly).
+Partially on track!!
+Work hard next week to remain on track.

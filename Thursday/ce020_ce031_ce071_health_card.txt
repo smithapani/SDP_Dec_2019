@@ -33,3 +33,9 @@ Will come tomorrow for showing database design
 
 update 16/01/20
 Will update github repo, dates and priorities - Pending from last week - MOST IMPORTANT
+
+Update 23/01/2020
+Will update github repo, dates and priorities - Pending from last to last week - MOST IMPORTANT
+Nice progress!!
+Figure out how to take doctor speciality from doctor and how to store it in database.
+Merge your code to master branch only through pull requests (not directly). Provide meaningful comments before approving code.

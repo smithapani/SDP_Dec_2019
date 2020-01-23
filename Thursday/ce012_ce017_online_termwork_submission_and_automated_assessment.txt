@@ -2,12 +2,21 @@ CE012: Parth Baudhanwala
 CE017: Meet Charola
 
 Project title: Online termwork submission
-Github repo: 
+Github repo: https://github.com/MEETcharola/Projects
 
 
 High level stories:
 Decide scope - whether to keep multiple subjects or the system will work for only one subject
-1. Login for faculties and students
+1. Login for faculties and students 23/01/2020
+2. Faculty should be able to create subject ????????? 23/01/2020
+2.1. Faculty should be able to add students to the system (one time) 31/01/2020
+2.5. Faculty can enroll students to the subject 31/01/2020
+3. Faculty should be able to create labs under subject 20/02/2020
+4. Faculty should be able to create assignments for labs - problem statement, constraints, test cases 27/02/2020
+5. Students can see all the subjects in which S/he is enrolled ?????????? 27/02/2020
+5.5 Student should see all labs 12/03/2020
+6. Student should see problem statements, constraints, test cases for assignments 12/03/2020
+7. Student should be able to submit the solution for assignments. 12/03/20201. Login for faculties and students
 2. Faculty should be able to create subject ?????????
 2.1. Faculty should be able to add students to the system (one time)
 2.5. Faculty can enroll students to the subject
@@ -41,3 +50,9 @@ update 16/01/20
 Update github repo on this doc - pending from last to last week
 put a date against each core functionalities - pending from last to last week - MOST IMPORTANT
 Decided to use SQL instead of mongoDB
+
+Update 23/01/2020
+Use git properly and push your code to github frequently.
+Merge your code to master branch only through pull requests (not directly).
+Lagging behind per schedule.
+Need to work hard for next week to catch up.

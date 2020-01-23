@@ -5,7 +5,10 @@ Project title: Hindrance avoiding robo car (+ voice recognition)
 Github repo: 
 
 Core priorities:
-
+0. Move straight - P0 - 06/02/20
+1. Detecting the Hindrance - P0 - 06/02/20
+2. Avoiding Hindrance - P0 - 06/02/20
+3. Controlling of car by user unless there is any Hindrance - P1 - 12/03/20
 
 update 01/01/20
 Absent for last two labs
@@ -18,3 +21,6 @@ Update this file with list of core priorities and github repo for the project.
 So, put priority (p0/p1/p2) against each core priority.
 Also put a date against each core priority.
 Both members to meet me before end of this week to discuss scope and division of work for the project.
+
+Update 23/01/2020
+Assemble the hardware in next week and try to complete the move straight functionality of robo by next week.

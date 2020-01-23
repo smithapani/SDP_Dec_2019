@@ -34,3 +34,9 @@ Completed login and signup
 
 update 16/01/20
 Nice progress. On track.
+
+Update 23/01/2020
+Nice progress!!
+On track.
+Use git properly and push your code to github frequently.
+Merge your code to master branch only through pull requests (not directly).

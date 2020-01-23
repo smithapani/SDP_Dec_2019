@@ -30,3 +30,8 @@ Put a date against each core functionality - pending from last week
 
 update 16/01/20
 Nice progress!!! On track.
+
+Update 23/01/2020
+Explore if magic number can be user to classify files rather than file extension
+On track otherwise!
+Make sure you do code reviews before approving other's code.

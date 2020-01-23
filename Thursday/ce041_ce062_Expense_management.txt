@@ -41,3 +41,9 @@ update 16/01/20
 PUSH all your code so far to github repo - VERY IMPORTANT
 Frequently PUSH your code to github repo - VERY VERY VERY IMPORTANT
 Change dates for core priorities
+
+Update 23/01/2020
+Change dates for core priorities - Pending from last week
+Use git properly and push your code to github frequently.
+Merge your code to master branch only through pull requests (not directly).
+Lagging little behind. Neet to do little more work next week to cope up.

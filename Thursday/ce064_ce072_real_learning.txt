@@ -28,9 +28,13 @@ Complete signup and login for user and admin by next lab
 
 Update 27/12/19
 Nice progress!!
-Rough database design database by next week - pending from last week
-Update github repo
-Put a date against each core functionality
+Rough database design database by next week - pending frhttps://github.com/akhm123/sdp
+om last week
+Update github repohttps://github.com/akhm123/sdp
+
+Put a date against each core functionalityhttps://github.com/akhm123/sdp
+
+https://github.com/akhm123/sdp
 
 Update 01/01/20
 On track. Need more clarity on functionalities and working of the app
@@ -38,3 +42,10 @@ On track. Need more clarity on functionalities and working of the app
 update 16/01/20
 Nice progress!!!
 On track.
+
+Update 23/01/2020
+Course content is only file for now. Its not acceptable. Pleae iterate over it to store text.
+UI is also not very good.
+Please add proper navigation for different functionalities of the project.
+Use git properly and push your code to github frequently.
+Merge your code to master branch only through pull requests (not directly).
