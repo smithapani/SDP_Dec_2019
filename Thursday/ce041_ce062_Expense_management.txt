@@ -2,7 +2,7 @@ CE041: Smit Hapani
 CE062: Rutvik Kikani
 
 Project title: Expense management
-Github repo: https://github.com/smithapani/xyz.git
+Github repo: https://github.com/smithapani/ExpenseTracker.git
 
 Core functionalities:
 User should be able to signup and login - P0 - 17/1/2020
